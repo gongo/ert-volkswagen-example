@@ -1,6 +1,8 @@
 Example of ert-volkswagen
 ==============================
 
+[![Build Status](https://travis-ci.org/gongo/ert-volkswagen-example.svg?branch=master)](https://travis-ci.org/gongo/ert-volkswagen-example)
+
 Usage
 --------------------
 
